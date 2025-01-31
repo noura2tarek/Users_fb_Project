@@ -26,7 +26,6 @@ class CustomButton extends StatelessWidget {
           ),
         ),
         onPressed: onPressed,
-
         child: isLoading
             ? CircularProgressIndicator(
                 color: AppColors.white,
