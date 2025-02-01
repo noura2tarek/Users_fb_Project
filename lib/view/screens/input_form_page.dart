@@ -2,7 +2,6 @@ import 'package:firebase_project/firebase_service/data_model.dart';
 import 'package:firebase_project/firebase_service/firebase_service.dart';
 import 'package:firebase_project/utils/app_strings.dart';
 import 'package:firebase_project/view/screens/users_page.dart';
-import 'package:firebase_project/view/screens/users_pagedart';
 import 'package:flutter/material.dart';
 import '../widgets/custom_button.dart';
 import '../widgets/custom_from_field.dart';
