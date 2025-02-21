@@ -23,12 +23,15 @@ can view all the users saved in firestore database.
 **Future Builder**                                                                                    
 To fetch the users data from firestore database, Future Builder widget is used to show the users list in users                       
 page after the async method in it completes (in our case: get users using collectionName.get() method).                                         
-this widget depends on future data. so, it rebuilds itself based on the latest snapshot of interaction with a Future parameter.                                                   
-                                                       
-The firebase service logic in lib/firebase_service folder.
-The view in lib/view folder.
-Other App components is stored in lib/utils folder.
-The task output images in assets/images folder.
+this widget depends on future data. so, it rebuilds itself based on the latest snapshot of interaction with a Future parameter.     
+
+-----------------------------------------
+
+# Structure                                                       
+- The firebase service logic in lib/firebase_service folder.           
+- The view in lib/view folder.           
+- Other App components is stored in lib/utils folder.         
+- The task **output images** in assets/images folder.         
 
 ---------------------------------------
 
