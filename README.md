@@ -28,13 +28,20 @@ this widget depends on future data. so, it rebuilds itself based on the latest s
 -----------------------------------------
 
 # Structure                                                       
-- The firebase service logic in lib/firebase_service folder.           
-- The view in lib/view folder.           
+- The **firebase service** logic in lib/firebase_service folder.           
+- The **view** in lib/view folder.           
 - Other App components is stored in lib/utils folder.         
 - The task **output images** in assets/images folder.         
 
 ---------------------------------------
 
+## How to Run the App
+
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Run `flutter run` to start the app.
+
+----------------
 # Packages used:
 
 firebase_core: to use the Firebase CoreAPI --> https://pub.dev/packages/firebase_core                                                                                             
