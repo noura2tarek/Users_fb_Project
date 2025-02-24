@@ -27,9 +27,9 @@ To apply beta testing to my flutter application and test the pre-release version
 ----------------
 
 # Structure
-The firebase service logic in lib/firebase_service folder.
-The view in lib/view folder.
-Other App components is stored in lib/utils folder.
+- The firebase service logic in lib/firebase_service folder.
+- The view in lib/view folder.
+- Other App components is stored in lib/utils folder.
 
 ---------------------------------------
 
