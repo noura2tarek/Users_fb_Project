@@ -35,7 +35,7 @@ this widget depends on future data. so, it rebuilds itself based on the latest s
 
 ---------------------------------------
 
-## How to Run the App
+## How to Run
 
 1. Clone the repository.
 2. Run `flutter pub get` to install dependencies.
